@@ -1,0 +1,62 @@
+git file 
+--------------
+To set your user name and email in the main configuration file.
+
+
+(1)git Config
+
+To check your name and email type in git configâ€Š --â€Šglobal user.name and git config â€Š--â€Šglobal user.email. And to set your new email or name git configâ€Š --â€Šglobal user.name = “Dhruv Nenwani” and git configâ€Š --â€Šglobal user.email = “nendhruv@gmail.com”
+
+
+2) git init 
+
+ git init in the root of your project directory.
+
+3)  git clone 
+
+git clone <:clone git url:>
+
+ 4) git status 
+
+git status in your working directory. lists out all the files that have been changed.
+
+ 5) git add 
+
+git add .
+
+ 6) git commit 
+
+git commit -m”sweet little commit message”
+
+7)git pull 
+
+git pull 
+
+8) git push
+ git push
+
+
+9)git branch 
+
+git branch or git branch -a
+
+ 9) git checkout 
+
+git checkout <:branch:>
+_git checkout -b
+
+
+10) git stash 
+
+git stash in your working directory. git stash apply if you want to bring your saved changes back.
+
+
+11) git merge 
+Switch to branch you want to merge everything in. git merge <:branch_you_want_to_merge:>
+
+12) git reset 
+git reset <:mode:> <:COMMIT:>
+
+13)git remote 
+git remote to check and list. And git remote add <:remote_url:>
+
